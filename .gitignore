@@ -1,8 +1,8 @@
-web/node_modules
-web/build
+./web/node_modules
+./web/build
 
-backend/node_modules
+./backend/node_modules
 
-mobile/node_modules
-mobile/.expo
-mobile/.expo-shared
+./mobile/node_modules
+./mobile/.expo
+./mobile/.expo-shared
